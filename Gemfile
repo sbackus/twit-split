@@ -1,3 +1,4 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-# no dependencies! ^_^
+# Specify your gem's dependencies in twit_split.gemspec
+gemspec
